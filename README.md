@@ -14,5 +14,9 @@ truffle migrate
 *Can now interact with it via the console*
 truffle test 
 
-*Will connect to localhost:3000* uses Infura which you'll need to gain access to applying for one via Infura.io
+*Will connect to localhost:7454* uses Infura which you'll need to gain access to applying for one via Infura.io
 npm run dev
+
+
+
+Please refer to both the Petshop Tutorial and Deplyoing to the live network on: https://truffleframework.com/
