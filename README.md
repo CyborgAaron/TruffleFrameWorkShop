@@ -19,4 +19,5 @@ npm run dev
 
 
 
-Please refer to both the Petshop Tutorial and Deplyoing to the live network on: https://truffleframework.com/
+# Please refer to both the Petshop Tutorial and Deplyoing to the live network on: https://truffleframework.com/ 
+ This is the local host to connect to your decentralised Application: HTTP://127.0.0.1:7545/
